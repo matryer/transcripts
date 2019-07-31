@@ -156,11 +156,11 @@ But in the case of web development, in that scenario I think it's okay to bring 
 
 **Johnny Boursiquot:** Exactly.
 
-**Mat Ryer:** \[unintelligible 00:19:10.24\]
+**Mat Ryer:** What is it on GitHub Mark?
+
+**Mark Bates:** Oh shut up! \[laughter\]
 
 **Aaron Schlesinger:** I was gonna say the same thing... \[laughs\]
-
-**Mat Ryer:** \[00:19:20.20\]
 
 **Mark Bates:** We're uniform! We've got GoBuffalo.io, and @gobuffalo\_io on Twitter, and GoBuffalo on Github, and... Whatever. That's enough name-dropping.
 
